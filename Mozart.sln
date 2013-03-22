@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozart", "Mozart.csproj", "{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Debug|iPhone.Build.0 = Debug|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Release|iPhone.ActiveCfg = Release|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Release|iPhone.Build.0 = Release|iPhone
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{03BBC79F-9C22-4494-ABBD-2BB11DF2BB59}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Mozart.csproj
+	EndGlobalSection
+EndGlobal
